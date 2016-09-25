@@ -1,2 +1,3 @@
 # xNotes
-A simple &amp; interactive notes application for Android
+A simple &amp; interactive **notes** application for **_android_** using **_Ionic_, _angularJS_ &amp _Apache Cordova Plugins_**
+
